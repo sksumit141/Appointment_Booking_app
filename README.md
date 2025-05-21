@@ -1,3 +1,7 @@
+                                                                                            Appointment Booking App
+
+
+
 A full-stack application designed to streamline the process of booking appointments. This project allows users to schedule, manage, and track appointments efficiently.
 
 Features
